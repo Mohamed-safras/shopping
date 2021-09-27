@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.continer {
+ 
+  background-color: aliceblue;
+  height: 250px;
+  width: 250px;
+  border-radius: 25px;
+  box-shadow: 1px 7px 9px -9px rgba(0,0,0,0.75);
+}
